@@ -1,7 +1,7 @@
 {
     "name": "audio-editor",
     "package_version": 2,
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "Edit your audios inside cocos creator.",
     "author": "ren_meng",
     "main": "browser.js",
@@ -32,9 +32,7 @@
         ],
         "messages": {
             "open-panel": {
-                "methods": [
-                    "openPanel"
-                ]
+                "methods": ["openPanel"]
             }
         },
         "shortcuts": [
@@ -43,7 +41,14 @@
                 "win": "ctrl+shift+m",
                 "mac": "cmd+shift+m"
             }
-        ]
+        ],
+
+        "assets": {
+            "menu": {
+              "methods": "./assets-menu.js",
+              "assetMenu": "onAssetMenu"
+            }
+        }
     },
     "dependencies": {
         "fluent-ffmpeg": "^2.1.2",
