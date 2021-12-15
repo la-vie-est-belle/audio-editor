@@ -38,9 +38,9 @@ Very easy. Check out this [introduction video](https://www.bilibili.com/video/BV
 6. start editing via context menu
 7. Record
 
-![audio editor](https://img-blog.csdnimg.cn/0ac30cb27df347a9a84f79a42203caa9.png)
+![audio editor record](https://img-blog.csdnimg.cn/0ac30cb27df347a9a84f79a42203caa9.png)
 
-![audio editor](https://img-blog.csdnimg.cn/a0c8e10f9c3546f8854cb22ac5e3c646.png)
+![audio editor record](https://img-blog.csdnimg.cn/a0c8e10f9c3546f8854cb22ac5e3c646.png)
 
 ![context menu](https://img-blog.csdnimg.cn/75e77e8f9b5c4b8b8067bab6e92c0efe.png)
 
