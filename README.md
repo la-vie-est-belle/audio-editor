@@ -1,7 +1,8 @@
 # Audio Editor 
 ***Edit your audios in Cocos Creator.***
 
-![audio editor](https://img-blog.csdnimg.cn/2e126ced833b4d8ba3fe0dc12dbd9f6d.png)
+![audio editor](https://img-blog.csdnimg.cn/7c94eb582d5b4c8abed10bfc73039bf0.png)
+
 ![audio-editor](https://img-blog.csdnimg.cn/792130709649415a9e9ce0b72362c23f.png)
 
 <br>
@@ -35,6 +36,11 @@ Very easy. Check out this [introduction video](https://www.bilibili.com/video/BV
 4. Change volume
 5. Change format (mp3, wav, aac, ogg)
 6. start editing via context menu
+7. Record
+
+![audio editor](https://img-blog.csdnimg.cn/0ac30cb27df347a9a84f79a42203caa9.png)
+
+![audio editor](https://img-blog.csdnimg.cn/a0c8e10f9c3546f8854cb22ac5e3c646.png)
 
 ![context menu](https://img-blog.csdnimg.cn/75e77e8f9b5c4b8b8067bab6e92c0efe.png)
 

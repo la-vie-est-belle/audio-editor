@@ -1,7 +1,7 @@
 {
     "name": "audio-editor",
     "package_version": 2,
-    "version": "1.0.0",
+    "version": "1.0.2",
     "description": "Edit your audios inside cocos creator.",
     "author": "ren_meng",
     "main": "browser.js",
