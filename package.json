@@ -1,9 +1,9 @@
 {
     "name": "audio-editor",
     "package_version": 2,
-    "version": "1.0.2",
-    "description": "Edit your audios inside cocos creator.",
-    "author": "ren_meng",
+    "version": "1.0.3",
+    "description": "i18n:audio-editor.intro",
+    "author": "la vie",
     "main": "browser.js",
     "panels": {
         "default": {
@@ -21,11 +21,11 @@
         "menu": [
             {
                 "path": "i18n:menu.extension",
-                "label": "Audio Editor",
+                "label": "i18n:audio-editor.title",
                 "icon": "./static/icons/default.png"
             },
             {
-                "path": "i18n:menu.extension/Audio Editor",
+                "path": "i18n:menu.extension/i18n:audio-editor.title",
                 "label": "i18n:audio-editor.open",
                 "message": "open-panel"
             }

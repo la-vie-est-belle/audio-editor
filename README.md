@@ -1,9 +1,9 @@
 # Audio Editor 
 ***Edit your audios in Cocos Creator.***
 
-![audio editor](https://img-blog.csdnimg.cn/7c94eb582d5b4c8abed10bfc73039bf0.png)
+![audio editor](https://img-blog.csdnimg.cn/41b1b9c83bea40df8180b5e4388473b1.png)
 
-![audio-editor](https://img-blog.csdnimg.cn/792130709649415a9e9ce0b72362c23f.png)
+![audio-editor](https://img-blog.csdnimg.cn/76fa5c3c25a64fd6a793faf5794c5519.png)
 
 <br>
 
@@ -11,12 +11,13 @@
 After downloading Audio Editor in Cocos Store,  you also need to download [ffmpeg](https://ffmpeg.org/download.html) as Audio Editor is developed based on it.
 
  - If you are using MacOS, click here: [ffmpeg for
-   MacOS](https://evermeet.cx/ffmpeg/ffmpeg-104757-ga7df966c82.zip)
+   MacOS](https://evermeet.cx/ffmpeg/)
   - If you are using Windows, click here: [ffmpeg for
-   Windows](https://www.gyan.dev/ffmpeg/builds/ffmpeg-release-essentials.7z)
+   Windows](https://www.gyan.dev/ffmpeg/builds/)
+  - For your convenience, I've put ffmpeg and ffprobe on [github](https://github.com/la-vie-est-belle/ffmpeg-ffprobe) and [gitee](https://gitee.com/la-vie/ffmpeg-ffprobe), you may download them there.
 
-Then, move ffmpeg to the root directory of audio editor.
-![MacOS](https://img-blog.csdnimg.cn/5ab8b9c221df483e9b3d127561e791a9.png)
+Then, move ffmpeg and ffprobe to the root directory of audio editor.
+![MacOS](https://img-blog.csdnimg.cn/7f3064b41fa14addb3cf0896f9a4ac05.png)
 
 ![Windows](https://img-blog.csdnimg.cn/2a0be8ff2ee547338960d0828751442c.png)
 
@@ -37,12 +38,13 @@ Very easy. Check out this [introduction video](https://www.bilibili.com/video/BV
 5. Change format (mp3, wav, aac, ogg)
 6. start editing via context menu
 7. Record
+8. Get audio data
 
 ![audio editor record](https://img-blog.csdnimg.cn/0ac30cb27df347a9a84f79a42203caa9.png)
 
 ![audio editor record](https://img-blog.csdnimg.cn/a0c8e10f9c3546f8854cb22ac5e3c646.png)
 
-![context menu](https://img-blog.csdnimg.cn/75e77e8f9b5c4b8b8067bab6e92c0efe.png)
+![context menu](https://img-blog.csdnimg.cn/0e1a5917f509486aa39009d6d20aaccb.png)
 
 <br>
 
