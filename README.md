@@ -19,7 +19,7 @@ After downloading Audio Editor in Cocos Store,  you also need to download [ffmpe
 Then, move ffmpeg and ffprobe to the root directory of audio editor.
 ![MacOS](https://img-blog.csdnimg.cn/7f3064b41fa14addb3cf0896f9a4ac05.png)
 
-![Windows](https://img-blog.csdnimg.cn/2a0be8ff2ee547338960d0828751442c.png)
+![Windows](https://img-blog.csdnimg.cn/2fe2bd9b094a464aae3df52305aabce8.png)
 
 At last, restart Cocos Creator, and enjoy editing audios. :)
 
